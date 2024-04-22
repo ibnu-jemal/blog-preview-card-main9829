@@ -8,7 +8,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-   
+   font-family: "Figtree",sans-serif;
   /* align-items: center;
   margin: 0 auto; */
 }
